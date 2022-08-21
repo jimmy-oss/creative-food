@@ -59,4 +59,15 @@ html{
   justify-content: space-between;
   padding: 10rem 0;
 }
+.cards-container{
+  display: flex;
+  justify-content: space-evenly;
+}
+.card{
+  width: 30rem;
+  background-color: #a79a2d;
+}
+.card-img{
+  width: 100%;
+}
 /*End of section 2*/

@@ -13,7 +13,7 @@ html{
   font-size: 62.5%;
 }
 .section-heading{
-  font-size: 10rem;
+  font-size: 8rem;
   font-weight: 900;
   color: white;
   text-align: center;
@@ -52,7 +52,7 @@ html{
 /*Section 2*/
 .section-2{
   width: 100%;
-  height: 100vh;
+  height: 125vh;
   background-color: #222;
   display: flex;
   flex-direction: column;
@@ -64,6 +64,7 @@ html{
   justify-content: space-evenly;
 }
 .card{
+  margin-top: 8rem;
   width: 30rem;
   background-color: #a79a2d;
   padding: 4rem;

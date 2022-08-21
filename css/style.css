@@ -25,7 +25,7 @@ html{
   justify-content: space-evenly;
 }
 .section-heading{
-  font-size: 12rem;
+  font-size: 10rem;
   font-weight: 900;
   color: white;
   align-items: center;
@@ -34,6 +34,10 @@ html{
   text-shadow: 0.3rem 0.3rem 0.3rem #000;
 }
 .section-1-icons i{
-  font-size: 35rem;
+  font-size: 30rem;
+  color:#a79a2d;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  text-shadow: 0.2rem 0.2rem 0.2rem #000;
 }
 /*End of Section 1*/

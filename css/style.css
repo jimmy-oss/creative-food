@@ -74,6 +74,11 @@ html{
   box-shadow: 1rem 1rem 1rem #000;
   position: relative;
   transform: rotateY(20deg)skewX(-2deg);
+  transition: transform 0.5s,box-shadow 0.5s;
+}
+.card:hover{
+  transform: rotateY(20deg)skewX(-2deg)translateY(-3rem);
+  box-shadow: 2rem 2rem 2rem #000;
 }
 .card::before{
   content: "";
